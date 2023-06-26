@@ -1,0 +1,54 @@
+body{
+    background-color: #FDD3A9;
+    text-align: center;
+}
+
+h1, h2{
+    font-family: Ysabeau Office, sans-serif;
+    font-size: 25px;
+}
+
+h1{ 
+    font-weight: bold;
+    font-size: 50px;
+}
+
+img{
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+}
+
+p, ol{
+    /*display:inline-block; remove this line */
+    width:50%;
+    margin:auto;
+}
+
+ol li, ul li {
+    padding:0.1rem;
+    text-align:left;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: PT Sans, sans-serif;
+}
+
+ul{
+    width: 25%;
+    margin:auto;
+    list-style-type: circle;
+}
+
+p{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: PT Sans, sans-serif;
+}
+
+ol li{
+    text-align: justify;
+}
+
+ol{
+    list-style-type: 1;
+}
