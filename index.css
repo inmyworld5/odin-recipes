@@ -1,0 +1,35 @@
+body{
+    background-color: #FDD3A9;
+    text-align: center;
+}
+
+h1{
+    font-family: Ysabeau Office, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+ul{
+    width: 18%;
+    margin:auto;
+    list-style-type: disc;
+}
+
+ul li{
+    padding:0.1rem;
+    text-align:left;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: PT Sans, sans-serif;
+}
+
+a:active, a:hover{
+    color: orangered;
+}
+
+a{
+    color: #fe6d4c;
+    text-decoration: none;
+}
+
